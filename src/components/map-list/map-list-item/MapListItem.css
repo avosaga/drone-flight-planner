@@ -1,0 +1,16 @@
+.map-list-item {
+    border-radius: .5rem;
+    padding: 1rem;
+    margin: .2rem;
+    border: .1rem solid lightgrey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.map-list-item__name {
+    width: 75%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

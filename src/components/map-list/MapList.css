@@ -1,0 +1,15 @@
+.map-list {
+    padding: .5rem;
+}
+
+.map-list__title {
+    color: cornflowerblue;
+}
+
+.map-list__input {
+    padding: .5rem .2rem .5rem .2rem;
+    margin: 1rem;
+    width: 10rem;
+    display: inline-block;
+    border: .1rem solid lightgray;
+}

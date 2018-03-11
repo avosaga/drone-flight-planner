@@ -1,0 +1,12 @@
+.app {
+    width: 100%;
+    display: flex;
+}
+
+.app__list {
+    width: 30%;
+}
+
+.app__content {
+    width: 70%;
+}
